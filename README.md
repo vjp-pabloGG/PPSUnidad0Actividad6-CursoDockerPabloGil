@@ -36,4 +36,14 @@ Es resto de los datos será proporcionados automáticamente por Docker.</i>
 
 ![](imagenes/redes/Cap6.png)
 
+<h2>Pantallazos</h2>
+
+<i>• Pantallazo donde se vea la configuración de red del contenedor u1.</i>
+
+![](imagenes/redes/Cap7.png)
+
+<i>• Pantallazo donde se vea la configuración de red del contenedor u2.</i>
+
+![](imagenes/redes/Cap8.png)
+
 
