@@ -12,3 +12,10 @@ Máscara de red: 255.255.0.0
 Gateway: 172.28.0.1</i>
 
 ![](imagenes/redes/Cap1.png)
+
+<i>Red2
+
+Nombre: red2
+Es resto de los datos será proporcionados automáticamente por Docker.</i>
+
+![](imagenes/redes/Cap2.png)
