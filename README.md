@@ -28,4 +28,12 @@ Es resto de los datos será proporcionados automáticamente por Docker.</i>
 
 ![](imagenes/redes/Cap5.png)
 
+<h3>3. Poner en ejecución un contenedor de la imagen ubuntu:20.04 que tenga como hostname host2 y que esté conectado a la red2. En este caso será docker el que le de una IP correspondiente a esa red. Lo llamaremos u2.</h3>
+
+![](imagenes/redes/Cap13.PNG)
+
+<h3>4. Entrar en ese contenedor e instalar la aplicación ping (apt update && apt install inetutils-ping).</h3>
+
+![](imagenes/redes/Cap6.png)
+
 
