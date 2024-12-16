@@ -46,4 +46,12 @@ Es resto de los datos será proporcionados automáticamente por Docker.</i>
 
 ![](imagenes/redes/Cap8.png)
 
+<i>• Pantallazo donde desde cualquiera de los dos contenedores se pueda ver que no podemos hacer ping al otro ni por ip ni por nombre.</i>
+
+![](imagenes/redes/Cap10.png)
+
+<i>• Pantallazo donde se pueda comprobar que si conectamos el contenedor u1 a la red2 (con docker network connect), desde el contenedor u1, tenemos acceso al contenedor u2 mediante ping, tanto por nombre como por ip.</i>
+
+![](imagenes/redes/Cap12.png)
+
 
