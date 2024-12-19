@@ -1,5 +1,7 @@
 <h1>Ejercicios Entrega Almacenamiento</h1>
 
+<h2>Creación y uso de volúmenes</h2>
+
 <b><i>• Pantallazo donde se puedan ver los dos volúmenes creados.
 
 ![](imagenes/almacenamiento/Cap2.png)
@@ -25,5 +27,12 @@
 ![](imagenes/almacenamiento/Cap7.png)
 
 ![](imagenes/almacenamiento/Cap8.png)
+
+<h2>Bind mount para compartir datos</h2>
+
+<b><i>• Pantallazo con la orden correspondiente para arrancar el contenedor c1 (puerto 8181) realizando el bind mount solicitado.
+
+
+![](imagenes/almacenamiento/Cap9.png)
 
 
