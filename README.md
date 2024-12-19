@@ -6,4 +6,7 @@
 
 [Introduccion](introduccion.md)
 
+[Almacenamiento](almacenamiento.md)
+
+
 
