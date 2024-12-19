@@ -32,7 +32,20 @@
 
 <b><i>• Pantallazo con la orden correspondiente para arrancar el contenedor c1 (puerto 8181) realizando el bind mount solicitado.
 
-
 ![](imagenes/almacenamiento/Cap9.png)
 
+<b><i>• Pantallazo con la orden correspondiente para arrancar el contenedor c2 (puerto 8282) realizando el bind mount solicitado.
 
+![](imagenes/almacenamiento/Cap10.png)
+
+<b><i>• Pantallazo donde se pueda apreciar que accediendo a c1 se puede ver el contenido de index.html.
+
+![](imagenes/almacenamiento/Cap11.png)
+
+<b><i>• Pantallazo donde se pueda apreciar que accediendo a c2 se puede ver el contenido de index.html.
+
+![](imagenes/almacenamiento/Cap12.png)
+
+<b><i>• Otro dos pantallazos (o uno) donde se vea accediendo a los contenedores después de modificar el fichero index.html.
+
+![](imagenes/almacenamiento/Cap13.png)
