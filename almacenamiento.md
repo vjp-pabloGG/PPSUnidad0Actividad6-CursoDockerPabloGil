@@ -20,3 +20,10 @@
 
 ![](imagenes/almacenamiento/Cap6.png)
 
+<b><i>• Pantallazo donde se vea el acceso al contenedor c3. 
+
+![](imagenes/almacenamiento/Cap7.png)
+
+![](imagenes/almacenamiento/Cap8.png)
+
+
