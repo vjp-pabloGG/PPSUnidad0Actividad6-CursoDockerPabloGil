@@ -2,7 +2,9 @@
 
 [Redes](redes.md)
 
-[Imagenes](imagenes.md)
+[Almacenamiento](almacenamiento.md)
+
+[Multicontenedor](multicontenedor.md)
 
 [Introduccion](introduccion.md)
 
